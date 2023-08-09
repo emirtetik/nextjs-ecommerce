@@ -9,8 +9,8 @@ const Hero = () => {
   return (
     <div className='hero'>
         <div className="flex-1 pt-36 padding-x">
-            <h1 className='hero__title'>F-Car Dealership</h1>
-            <p className="hero__subtitle">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit aliquam obcaecati voluptatum molestias ea nobis doloremque modi, atque vero iure, alias consectetur accusamus perspiciatis</p>
+            <h1 className='hero__title'>Car Dealership</h1>
+            <p className="hero__subtitle">Lorem ipsum dolor, sit amet consectetur adipisicing  perspiciatis</p>
             <CustomButton
              title='explore cars'
              containerStyles="bg-primary-blue text-white rounded-full mt-10"
