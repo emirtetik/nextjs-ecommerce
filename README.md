@@ -1,3 +1,7 @@
+## Dinamik URL Yapısı
+Proje içinde dinamik URL yapısı kullanılmaktadır. Bu URL yapısı, arama kriterlerine göre oluşturulan dinamik URL'leri ifade eder. Kullanıcılar belirli parametreleri değiştirerek farklı sonuçlar elde edebilirler.
+![Project İmage](/public/car.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
